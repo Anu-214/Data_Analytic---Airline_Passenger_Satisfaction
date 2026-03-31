@@ -196,7 +196,7 @@ This project is intended as a portfolio demonstration for entry-level data analy
 
 ## 📞 Contact
 
-**Your Name**
+**Anugrah Seputra**
 - LinkedIn: https://linkedin.com/in/anugrah-seputra-321169280
 - Email: anugrahseputra93@gmail.com
 
